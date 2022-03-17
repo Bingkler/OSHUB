@@ -4,3 +4,7 @@
 >English translation provided by Microsoft Bing Translate, may be inaccurate
 
 # 即将到来的更新内容 Upcoming Updates
+* 1.首批镜像即将开放下载
+* 1.The first .iso will be available for download soon
+* 2.多语言支持
+* 2.Multi-language support
